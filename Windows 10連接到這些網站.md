@@ -1,6 +1,3 @@
-參考
-https://tw.begin-it.com/8779-windows-10-connects-to-these-websites-after-a-clean-install
-
 **應用**
 
 天氣App Live Tile。
